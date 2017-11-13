@@ -1,0 +1,33 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Barlow', sans-serif;
+}
+
+section>h1 {
+    font-size: 100px;
+    letter-spacing: -3px;
+    line-height: 1em;
+    font-weight: 600;
+    padding: 0 0 30px 0;
+}
+
+h1+h4 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 33px;
+    line-height: 1.2em;
+}
+
+section>h2 {
+    text-transform: uppercase;
+    font-weight: 600;
+    border-left: 5px solid rgba(255, 255, 255, 0.3);
+    padding: 0 0 0 20px;
+    font-size: 42px;
+}
+
+section>p {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 21px;
+    line-height: 1.7em;
+}
